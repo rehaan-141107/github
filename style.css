@@ -1,0 +1,21 @@
+.container{
+    background-color:red;
+    padding: 100px;
+    text-align: justify;
+
+
+}
+#name
+
+.btn{
+    display:red;
+    margin-right:auto;
+    margin-left:auto;
+    color:red;
+
+}
+.btn:hover{
+    background-color: black;
+    color:black;
+
+}
